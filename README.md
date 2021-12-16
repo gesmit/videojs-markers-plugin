@@ -1,5 +1,5 @@
 ## Forked from https://github.com/spchuang/videojs-markers for 1.0.2 NPM release
-## Not actively maintained
+
 
 Video.js Markers Plugin - works with Video.js 7.6
 ===================
